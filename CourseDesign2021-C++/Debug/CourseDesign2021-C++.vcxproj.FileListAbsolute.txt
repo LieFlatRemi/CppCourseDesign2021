@@ -1,0 +1,2 @@
+D:\yuecheng\College\CourseDesign2021-C++\Debug\CourseDesign2021-C++.exe
+D:\yuecheng\College\CourseDesign2021-C++\Debug\CourseDesign2021-C++.pdb
